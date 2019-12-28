@@ -1,0 +1,49 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>d46c025c-3482-41a8-8bf8-4cba62ae9dca</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>TipeData_Tuple__PY.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>TipeData_Tuple__PY</Name>
+    <RootNamespace>TipeData_Tuple__PY</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="TestTuple.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TestTuple_2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TipeData_Tuple__PY.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="results\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="results\001.PNG" />
+    <Content Include="results\002.PNG" />
+    <Content Include="results\003.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
