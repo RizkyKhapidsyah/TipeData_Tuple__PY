@@ -1,4 +1,5 @@
 # TipeData_Tuple__PY
+
 Bahan Ajar Fundamental Pemrograman Python. Mengenal Tipe Data Tuple dan List. Beserta Cara Melihat Perbedaannya.<br><br>
 <img src="https://github.com/RizkyKhapidsyah/TipeData_Tuple__PY/blob/master/results/001.PNG"><br>
 <img src="https://github.com/RizkyKhapidsyah/TipeData_Tuple__PY/blob/master/results/002.PNG"><br>
@@ -11,6 +12,7 @@ Bahan Ajar Fundamental Pemrograman Python. Mengenal Tipe Data Tuple dan List. Be
 > <a href="https://github.com/RizkyKhapidsyah/TipeData_Tuple__PY/blob/master/TestTuple_2.py">Source Code: Contoh 3</a><br>
 
 <br>
+
 # Tipe Data Tuple Python
 
 Sebuah tuple adalah urutan objek Python yang tidak berubah. Tuple adalah urutan, seperti daftar. Perbedaan utama antara tuple dan daftarnya adalah bahwa tuple tidak dapat diubah tidak seperti List Python. Tuple menggunakan tanda kurung, sedangkan List Python menggunakan tanda kurung siku.
