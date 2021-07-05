@@ -1,6 +1,6 @@
 # TipeData_Tuple__PY
 
-Bahan Ajar Fundamental Pemrograman Python. Mengenal Tipe Data Tuple dan List. Beserta Cara Melihat Perbedaannya.<br><br>
+Bahan Ajar Fundamental Pemrograman Python. Mengenal Tipe Data Tuple dan List. Beserta Cara Melihat Perbedaannya<br><br>
 <img src="https://github.com/RizkyKhapidsyah/TipeData_Tuple__PY/blob/master/results/001.PNG"><br>
 <img src="https://github.com/RizkyKhapidsyah/TipeData_Tuple__PY/blob/master/results/002.PNG"><br>
 <img src="https://github.com/RizkyKhapidsyah/TipeData_Tuple__PY/blob/master/results/003.PNG"><br><br>
